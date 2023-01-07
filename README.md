@@ -1,4 +1,4 @@
-# AILearning
+# AI Learning
 learning how to create a neural network
 
 
