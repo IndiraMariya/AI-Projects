@@ -130,3 +130,5 @@ dmypy.json
 
 mnist_train.csv
 mnist_test.csv
+
+MNIST-Reader/dataset
